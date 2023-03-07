@@ -1,0 +1,5 @@
+Algoritmo "exemplo02"
+   escreva na tela "digite seu nome"
+   armazene este valor em nome
+   escreva na tela nome
+fimAlgoritmo

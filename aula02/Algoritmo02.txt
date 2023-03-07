@@ -1,0 +1,10 @@
+Algotitmo "Exemplo02"
+   Escreva na tela "digite seu nome:"
+   Amazene este valor em nome
+   Escrever na tela nome
+FimAlgoritmo 
+
+
+
+
+   
